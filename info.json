@@ -1,5 +1,90 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "5f9cadeEers",
+            "name": "If There's a Hell Below-5f9cadeEers.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/r3/videos/If There's a Hell Below-5f9cadeEers.mp4",
+            "size": 5.742124,
+            "url": "https://github.com/circuitalmynds/music_r3/blob/main/videos/If There's a Hell Below-5f9cadeEers.mp4?raw=true"
+        },
+        {
+            "id": "xB7HPxdBOdw",
+            "name": "V i s a g e - 1980 _LP Album-xB7HPxdBOdw.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/r3/videos/V i s a g e - 1980 _LP Album-xB7HPxdBOdw.mp4",
+            "size": 27.127547999999997,
+            "url": "https://github.com/circuitalmynds/music_r3/blob/main/videos/V i s a g e - 1980 _LP Album-xB7HPxdBOdw.mp4?raw=true"
+        },
+        {
+            "id": "heKOVR2l3Fo",
+            "name": "Memories of a Glass Sanctuary-heKOVR2l3Fo.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/r3/videos/Memories of a Glass Sanctuary-heKOVR2l3Fo.mp4",
+            "size": 4.071769,
+            "url": "https://github.com/circuitalmynds/music_r3/blob/main/videos/Memories of a Glass Sanctuary-heKOVR2l3Fo.mp4?raw=true"
+        },
+        {
+            "id": "3slQIaKR-uQ",
+            "name": "Liszt - Via Crucis - Station VII - Jesus f\u00e4llt zum zweiten Mal-3slQIaKR-uQ.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/r3/videos/Liszt - Via Crucis - Station VII - Jesus f\u00e4llt zum zweiten Mal-3slQIaKR-uQ.mp4",
+            "size": 1.08205,
+            "url": "https://github.com/circuitalmynds/music_r3/blob/main/videos/Liszt - Via Crucis - Station VII - Jesus f\u00e4llt zum zweiten Mal-3slQIaKR-uQ.mp4?raw=true"
+        },
+        {
+            "id": "9-f-T4HjHU4",
+            "name": "Liszt - Die Forelle, S. 564 (after Schubert, D. 550)-9-f-T4HjHU4.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/r3/videos/Liszt - Die Forelle, S. 564 (after Schubert, D. 550)-9-f-T4HjHU4.mp4",
+            "size": 2.566913,
+            "url": "https://github.com/circuitalmynds/music_r3/blob/main/videos/Liszt - Die Forelle, S. 564 (after Schubert, D. 550)-9-f-T4HjHU4.mp4?raw=true"
+        },
+        {
+            "id": "8ZqItuK4Q6o",
+            "name": "Keyboard Sonata No. 39 in D Major, Hob. XVI, 24 - II. Adagio - Finale - Presto-8ZqItuK4Q6o.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/r3/videos/Keyboard Sonata No. 39 in D Major, Hob. XVI, 24 - II. Adagio - Finale - Presto-8ZqItuK4Q6o.mp4",
+            "size": 6.2201889999999995,
+            "url": "https://github.com/circuitalmynds/music_r3/blob/main/videos/Keyboard Sonata No. 39 in D Major, Hob. XVI, 24 - II. Adagio - Finale - Presto-8ZqItuK4Q6o.mp4?raw=true"
+        },
+        {
+            "id": "FntaPrNMkIM",
+            "name": "Liszt - Consolation No. 5, Andantino-FntaPrNMkIM.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/r3/videos/Liszt - Consolation No. 5, Andantino-FntaPrNMkIM.mp4",
+            "size": 1.87861,
+            "url": "https://github.com/circuitalmynds/music_r3/blob/main/videos/Liszt - Consolation No. 5, Andantino-FntaPrNMkIM.mp4?raw=true"
+        },
+        {
+            "id": "KrI2bcAG2A8",
+            "name": "Josef Suk - Under the Apple Tree, music to Zeyer's dramatic legend, Op. 20-KrI2bcAG2A8.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/r3/videos/Josef Suk - Under the Apple Tree, music to Zeyer's dramatic legend, Op. 20-KrI2bcAG2A8.mp4",
+            "size": 51.522642999999995,
+            "url": "https://github.com/circuitalmynds/music_r3/blob/main/videos/Josef Suk - Under the Apple Tree, music to Zeyer's dramatic legend, Op. 20-KrI2bcAG2A8.mp4?raw=true"
+        },
+        {
+            "id": "Zg3HM52lMVg",
+            "name": "Liszt - Die Legende von der Heiligen Elisabeth _ 2. Landgraf Ludwig - Aus dem Nebel der T\u00e4ler...-Zg3HM52lMVg.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/r3/videos/Liszt - Die Legende von der Heiligen Elisabeth _ 2. Landgraf Ludwig - Aus dem Nebel der T\u00e4ler...-Zg3HM52lMVg.mp4",
+            "size": 2.241495,
+            "url": "https://github.com/circuitalmynds/music_r3/blob/main/videos/Liszt - Die Legende von der Heiligen Elisabeth _ 2. Landgraf Ludwig - Aus dem Nebel der T\u00e4ler...-Zg3HM52lMVg.mp4?raw=true"
+        },
+        {
+            "id": "dLB0sxv72x8",
+            "name": "Liszt - Die Legende von der Heiligen Elisabeth _ 5. Elisabeth - Der Schmerz ist aus, die Bande...-dLB0sxv72x8.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/r3/videos/Liszt - Die Legende von der Heiligen Elisabeth _ 5. Elisabeth - Der Schmerz ist aus, die Bande...-dLB0sxv72x8.mp4",
+            "size": 2.7451399999999997,
+            "url": "https://github.com/circuitalmynds/music_r3/blob/main/videos/Liszt - Die Legende von der Heiligen Elisabeth _ 5. Elisabeth - Der Schmerz ist aus, die Bande...-dLB0sxv72x8.mp4?raw=true"
+        },
+        {
+            "id": "8ZjKvPLZtng",
+            "name": "Harlem Congo-8ZjKvPLZtng.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/r3/videos/Harlem Congo-8ZjKvPLZtng.mp4",
+            "size": 2.457483,
+            "url": "https://github.com/circuitalmynds/music_r3/blob/main/videos/Harlem Congo-8ZjKvPLZtng.mp4?raw=true"
+        },
+        {
+            "id": "0Sy-cn1i6GU",
+            "name": "Never Gonna Dance (From 'Swing Time')-0Sy-cn1i6GU.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/r3/videos/Never Gonna Dance (From 'Swing Time')-0Sy-cn1i6GU.mp4",
+            "size": 4.655053,
+            "url": "https://github.com/circuitalmynds/music_r3/blob/main/videos/Never Gonna Dance (From 'Swing Time')-0Sy-cn1i6GU.mp4?raw=true"
+        }
+    ],
+    "total_size": 112.31101699999999
 }

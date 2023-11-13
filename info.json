@@ -394,6 +394,13 @@
             "url": "https://github.com/circuitalmynds/music_r3/raw/main/videos/Edvard Grieg - Morning Mood video [Igx0OnrmbTU].mp4"
         },
         {
+            "id": "geIzzywDZLg",
+            "name": "[I've Got] Beginner's Luck (Mono Mix) [geIzzywDZLg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/r3/videos/[I've Got] Beginner's Luck (Mono Mix) [geIzzywDZLg].mp4",
+            "size": 10.851937999999999,
+            "url": "https://github.com/circuitalmynds/music_r3/raw/main/videos/[I've Got] Beginner's Luck (Mono Mix) [geIzzywDZLg].mp4"
+        },
+        {
             "id": "FDuwQ62e2Jk",
             "name": "Liszt\uff1a Erlk\u00f6nig, S. 558 (after Schubert, D. 328) [FDuwQ62e2Jk].mp4",
             "path": "/home/alanmatzumiya/Videos/container/r3/videos/Liszt\uff1a Erlk\u00f6nig, S. 558 (after Schubert, D. 328) [FDuwQ62e2Jk].mp4",
@@ -408,5 +415,5 @@
             "url": "https://github.com/circuitalmynds/music_r3/raw/main/videos/China Crisis - African And White (12 Inch Mix, 1981) [A7AyanDWB8I].mp4"
         }
     ],
-    "total_size": 931.7475500000002
+    "total_size": 942.5994880000002
 }
